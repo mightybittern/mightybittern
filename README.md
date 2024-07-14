@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @mightybittern
-- 👀 I’m interested in basketball, boxing, rowing, running and now mostly frond-end!!!
+- 👀 I’m interested in basketball, boxing, rowing, running and now mostly front-end!!!
 - 🌱 I’m currently learning html, css and js.
 - 😄 Pronouns: zib/zab or that dude
 - ⚡ Fun fact: I love pineapple on my pizza!!!
